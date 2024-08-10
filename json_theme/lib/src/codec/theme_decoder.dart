@@ -12186,10 +12186,6 @@ class ThemeDecoder {
           value['brightness'],
           validate: false,
         ),
-        buttonBarTheme: decodeButtonBarThemeData(
-          value['buttonBarTheme'],
-          validate: false,
-        ),
         buttonTheme: decodeButtonThemeData(
           value['buttonTheme'],
           validate: false,
